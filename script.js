@@ -102,6 +102,11 @@ const certData = {
     title: 'McKinsey Forward Program',
     img: 'images/certs/Mckinsey_Forward_Program-1.jpg',
     pdf: 'docs/Mckinsey_Forward_Program.pdf'
+  },
+  salesforce: {
+    title: 'Salesforce Essential Training',
+    img: 'images/certs/Salesforce_Essential_Training-1.jpg',
+    pdf: 'docs/Salesforce_Essential_Training.pdf'
   }
 };
 
